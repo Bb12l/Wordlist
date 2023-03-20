@@ -11291,3 +11291,5 @@ App_Settings.json
 /zm/?view=log
 /zp
 /zp/zp
+/appsettings.json
+/tms
