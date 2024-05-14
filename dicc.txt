@@ -11293,3 +11293,4 @@ App_Settings.json
 /zp/zp
 /appsettings.json
 /tms
+/config.zip
